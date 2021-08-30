@@ -1,5 +1,7 @@
 # Voxel Space in C
 
+Форкнул потому что igor725 крутой чувак, респект ему!
+
 ## Description
 
 Comanche's Voxel Space rendering algorithm written in C using SDL.
